@@ -1,0 +1,7 @@
+.idea
+/vendor
+*.db
+*.up
+*.down
+glide.yaml
+glide.lock
